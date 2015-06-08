@@ -2,5 +2,5 @@ language: ruby
 rvm:
   - 2.1.5
 script:
-  - bundle exec rspec spec
+  - CODECLIMATE_REPO_TOKEN=7c5d3fb469a55c9f97c33514c51eb4ea426e9551aac34b5e9ff53c4d53028a90 bundle exec rspec spec
 
