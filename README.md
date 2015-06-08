@@ -9,3 +9,7 @@
 [![Code Climate](https://codeclimate.com/github/priya-ver/demo_app_travis/badges/gpa.svg)](https://codeclimate.com/github/priya-ver/demo_app_travis)
 
 [![Test Coverage](https://codeclimate.com/github/priya-ver/demo_app_travis/badges/coverage.svg)](https://codeclimate.com/github/priya-ver/demo_app_travis/coverage)
+
+## Dependency Status
+
+[![Dependency Status](https://gemnasium.com/priya-ver/demo_app_travis.svg)](https://gemnasium.com/priya-ver/demo_app_travis)
